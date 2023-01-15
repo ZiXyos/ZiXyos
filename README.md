@@ -15,5 +15,5 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/ZiXyos/Killian-Moudery/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: killian.moudery@epitech.eu">killian.moudery@epitech.eu</a>
+  📫 How to reach me: <a href="mailto: killian.moudery@gmail.com">killian.moudery@gmail.com</a>
 </p>
