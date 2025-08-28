@@ -5,15 +5,15 @@
 </h3>
 <br>
 <p align="center">
-  Hi, I'm Killian Moudery an Epitech Student from France.
+  Hi, I'm Killian Moudery a Software Engineer 
   <br>
-  🔬 I'm currently studying for my fourth year at Inha Universty. at Incheon, Korea.
+  🔬 I'm currently building my own message broker like rabbitMQ in go <a href="https://github.com/hoppermq/hopper" title="hopperMQ">HopperMQ</a>
   <br>
-  💻 I love tech build new thing,, resolve problems
+  💻 I love tech, build new thing, resolve problems
   <br>
-  📚 I’m currently Practicing Golang and learning Rust
+  📚 I’m currently Practicing Rust
   <br>
   💬 Ask me anything about from <a href="https://github.com/ZiXyos/Killian-Moudery/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: killian.moudery@gmail.com">killian.moudery@gmail.com</a>
+  📫 How to reach me: <a href="mailto: kmoudery.dev@gmail.com">kmoudery.dev@gmail.com</a>
 </p>
